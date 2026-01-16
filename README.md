@@ -93,3 +93,10 @@ Dataset is ready for Exploratory Data Analysis (EDA) and machine learning
 # Conclusion
 
 The Medical Appointment No Shows dataset was found to be well-maintained with no missing values. Minor data validation steps ensured improved quality and readiness for further analysis.
+
+
+# Outputs
+
+<img width="812" height="563" alt="Image" src="https://github.com/user-attachments/assets/8f98f511-69a5-4e38-9133-f905c4c1da3c" />
+
+<img width="894" height="589" alt="Image" src="https://github.com/user-attachments/assets/240193cb-4884-4ec3-a920-8206adf1e7bd" />
