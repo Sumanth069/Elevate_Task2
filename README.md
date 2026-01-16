@@ -17,6 +17,15 @@ File name: KaggleV2-May-2016.csv
 Description:
 The dataset contains medical appointment records, including patient details, appointment scheduling information, and whether the patient showed up for the appointment.
 
+## Dataset Availability
+Due to GitHub file size limitations, the original dataset is not included in this repository.
+
+Dataset Source:
+Medical Appointment No Shows – Kaggle
+
+Users can download the dataset directly from Kaggle and place it in the project root directory before running the code.
+
+
 # Tools & Technologies
 
 Python
